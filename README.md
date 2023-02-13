@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+### 💻 Get in touch  with me:
+[![Linkedin Badge](https://img.shields.io/badge/-DariuszCiazynski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariusz-ciazynski/)](https://www.linkedin.com/in/dariusz-ciazynski/)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-DariuszCiazynski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darek.ciazynski@gmail.com)](mailto:darek.ciazynski@gmail.com)
