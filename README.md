@@ -1,19 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="350"/>
+</div>
 
-<!--
-**Dariusz-Wolontariusz/Dariusz-Wolontariusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello!👋
+My name is Darek, originally from Poland 🇵🇱 living in Oslo 🇳🇴<br>
+I'm a former physiotherapist whose interest in programming 👨‍💻 turned into a passion and then a profession.<br>
+I graduated from School of applied technology's bootcamp December 2022 <a href="https://www.salt.dev/" target="_blank">< /salt ></a> 🧂<br>
 
 
 
