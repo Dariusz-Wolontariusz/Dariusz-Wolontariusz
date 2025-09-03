@@ -5,7 +5,7 @@
 <br>
 <p>
 Hello!👋<br>
-My name is Madel, originally from Poland 🇵🇱 living in Oslo 🇳🇴<br>
+Originally from Poland 🇵🇱 living in Oslo 🇳🇴<br>
 I'm a former physiotherapist whose interest in programming 👨‍💻 turned into a passion and then a profession.<br>
 I graduated from School of applied technology's bootcamp December 2022 <a href="https://www.salt.dev/" target="_blank">< /salt ></a> 🧂<br>
 Apart from programming I love sports, dancing and I'm a self-taught musician who enjoys continous learning and self-development.
@@ -27,9 +27,3 @@ Taking degree on University of Oslo right now.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="60" height="60"/>&nbsp;
 </div>
-
-
-
-### 💻 Get in touch  with me:
-[![Linkedin Badge](https://img.shields.io/badge/-DariuszCiazynski-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dariusz-ciazynski/)](https://www.linkedin.com/in/dariusz-ciazynski/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-DariuszCiazynski-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:darek.ciazynski@gmail.com)](mailto:darek.ciazynski@gmail.com)
