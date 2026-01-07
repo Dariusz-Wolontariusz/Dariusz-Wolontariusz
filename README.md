@@ -3,7 +3,7 @@
 Oslo-based frontend developer focused on **JavaScript/TypeScript, React/Next.js, and accessibility**.
 
 **Now**
-- Deepening **TypeScript** (Frontend Masters).
+- Deepening **TypeScript** and **testing** (Frontend Masters).
 - Building small, shippable components with **Radix UI** and strong **a11y**.
 
 **Tech**
